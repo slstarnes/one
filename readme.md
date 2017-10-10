@@ -11,22 +11,32 @@ All build logic is contained with in the `readme.ipynb` file.  Use `nbconvert` t
 
 
 ```python
-    !jupyter nbconvert --to markdown about.ipynb readme.ipynb
+    !jupyter nbconvert --to markdown *.ipynb
     !jupyter nbconvert --execute --TemplateExporter.exclude_input=True --TemplateExporter.exclude_input=True index.ipynb 
 ```
 
 
-    !jupyter nbconvert --to markdown about.ipynb readme.ipynb
+    !jupyter nbconvert --to markdown *.ipynb
     !jupyter nbconvert --execute --TemplateExporter.exclude_input=True --TemplateExporter.exclude_input=True index.ipynb 
 
 
     [NbConvertApp] Converting notebook about.ipynb to markdown
     [NbConvertApp] Writing 449 bytes to about.md
+    [NbConvertApp] Converting notebook contributing.ipynb to markdown
+    [NbConvertApp] Writing 648 bytes to contributing.md
+    [NbConvertApp] Converting notebook index.ipynb to markdown
+    [NbConvertApp] Writing 7395 bytes to index.md
+    [NbConvertApp] Converting notebook long.ipynb to markdown
+    [NbConvertApp] Writing 1177 bytes to long.md
+    [NbConvertApp] Converting notebook participants.ipynb to markdown
+    [NbConvertApp] Writing 30 bytes to participants.md
     [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 2158 bytes to readme.md
+    [NbConvertApp] Writing 2124 bytes to readme.md
+    [NbConvertApp] Converting notebook short.ipynb to markdown
+    [NbConvertApp] Writing 195 bytes to short.md
     [NbConvertApp] Converting notebook index.ipynb to html
     [NbConvertApp] Executing notebook with kernel: python3
-    [NbConvertApp] Writing 256941 bytes to index.html
+    [NbConvertApp] Writing 258283 bytes to index.html
 
 
 
