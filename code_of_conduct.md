@@ -1,11 +1,11 @@
 ---
 ---
 
-# JupyterDay Atlanta Code of Conduct
+# Callisto Morn Code of Conduct
 
-Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and create an open platform that serves a broad range of communities, from research and education to journalism, industry and beyond.
+Callisto Day is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and create an open platform that serves a broad range of communities, from research and education to journalism, industry and beyond.
 
-At Project Jupyter and JupyterDay, we are committed to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. Conference organizers will not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any part of the conference venue, including talks. 
+At Callisto Day, we are committed to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. Conference organizers will not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any part of the conference venue, including talks. 
 
 Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for Project Jupyter events.
 
@@ -52,7 +52,7 @@ You can make a personal report by:
 
 Our team will help you contact venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. 
 
-* __Email__: projectjupyter@gmail.com, tony.fast@continuum.io
+* __Email__: tony.fast@gmail.com
 * __Law enforcement__: 404-894-2500 (Georgia Tech Campus Police)
 * __Local sexual assault hot line__: 404-894-9980 (GT Health Promotion)
 * __Medical Care__:  404-686-2435 (Emory Hospital Emergency)
