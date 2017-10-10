@@ -29,24 +29,6 @@ This project maintains an index of notebooks on the `master` branch.  The Github
     !jupyter nbconvert --TemplateExporter.exclude_input=True --TemplateExporter.exclude_input=True index.ipynb 
 
 
-    [NbConvertApp] Converting notebook about.ipynb to markdown
-    [NbConvertApp] Writing 585 bytes to about.md
-    [NbConvertApp] Converting notebook contributing.ipynb to markdown
-    [NbConvertApp] Writing 648 bytes to contributing.md
-    [NbConvertApp] Converting notebook index.ipynb to markdown
-    [NbConvertApp] Writing 5493 bytes to index.md
-    [NbConvertApp] Converting notebook long.ipynb to markdown
-    [NbConvertApp] Writing 1157 bytes to long.md
-    [NbConvertApp] Converting notebook participants.ipynb to markdown
-    [NbConvertApp] Writing 30 bytes to participants.md
-    [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 1709 bytes to readme.md
-    [NbConvertApp] Converting notebook short.ipynb to markdown
-    [NbConvertApp] Writing 124 bytes to short.md
-    [NbConvertApp] Converting notebook index.ipynb to html
-    [NbConvertApp] Writing 257733 bytes to index.html
-
-
 
 ```python
 contributing.md
