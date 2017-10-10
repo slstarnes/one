@@ -4,3 +4,4 @@ diffs
 *.html
 *.md
 !code_of_conduct.md
+!readme.md
