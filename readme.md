@@ -12,12 +12,12 @@ All build logic is contained with in the `readme.ipynb` file.  Use `nbconvert` t
 
 ```python
     !jupyter nbconvert --to markdown *.ipynb
-    !jupyter nbconvert --execute --TemplateExporter.exclude_input=True --TemplateExporter.exclude_input=True index.ipynb 
+    # !jupyter nbconvert --execute --TemplateExporter.exclude_input=True --TemplateExporter.exclude_input=True index.ipynb 
 ```
 
 
     !jupyter nbconvert --to markdown *.ipynb
-    !jupyter nbconvert --execute --TemplateExporter.exclude_input=True --TemplateExporter.exclude_input=True index.ipynb 
+    # !jupyter nbconvert --execute --TemplateExporter.exclude_input=True --TemplateExporter.exclude_input=True index.ipynb 
 
 
 # [contributing](contributing.ipynb)
