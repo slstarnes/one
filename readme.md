@@ -84,9 +84,9 @@ This project maintains an index of notebooks on the `master` branch.  The Github
     [NbConvertApp] Converting notebook participants.ipynb to markdown
     [NbConvertApp] Writing 30 bytes to participants.md
     [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 4825 bytes to readme.md
+    [NbConvertApp] Writing 3672 bytes to readme.md
     [NbConvertApp] Converting notebook talks.ipynb to markdown
-    [NbConvertApp] Writing 2400 bytes to talks.md
+    [NbConvertApp] Writing 2619 bytes to talks.md
     [NbConvertApp] Converting notebook posts/2017-10-23-Adding-the-first-talks.ipynb to markdown
     [NbConvertApp] Writing 779 bytes to _posts/2017-10-23-Adding-the-first-talks.md
     [NbConvertApp] Converting notebook index.ipynb to html
