@@ -5,13 +5,18 @@
 
 
 
-# Callist☾ M☾rn One
+# [Atlanta Jupyter User Group Meeting](https://callisto-morns.github.io/) [One](https://callisto-morns.github.io/)
 
-## _on_ Saturday November 11, 2017 _@_ the Georgia Tech Research Institute
+## Saturday November 11, 2017 _@_ the Georgia Tech Research Institute
 
-__Callisto Morn__ is a satellite conference orbitting the Project Jupyter.  At each __Callisto Morn__, Jupyter beginners and veterans will join to share the gravity of their work.  These events will organize designers, developers, and scientists across the southeast region.
+__Atlanta Jupyter User Group Meeting__ is a satellite event orbitting the [Project Jupyter](https://jupyter.org).  At each __Atlanta Jupyter User Group Meeting__, Jupyter beginners and veterans will join to share their works.  These events will attract designers, developers, and scientists across the southeast region crafted with Project Jupyter tools.
 
-## [Submit a Talk](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
+# Ticket Drop!
+## [Purchase Tickets at Eventbrite for $5](https://www.eventbrite.com/e/callisto-morn-one-an-event-for-jupyter-users-tickets-39268778975)
+
+> *Tickets on the day of the event are $10*
+
+## [Submit a Talk or Demo](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
 
 
 ## [Github](https://github.com/callisto-morns/one) 
@@ -32,10 +37,6 @@ __Callisto Morn__ is a satellite conference orbitting the Project Jupyter.  At e
 > {{post.description}}
 
 {% endfor %}
-
-# Coming Soon
-
-## ~~[Very Afforable Tickets on October 27, 2017]()~~
 
 
 
@@ -82,9 +83,8 @@ This project maintains an index of notebooks on the `master` branch.  The Github
     10:15,10:45,30 Min Case Study, Luke Starnes
     10:45,11:15,Powers Often, Nick and Tony
     11:15,11:30,Break,Left over coffee
-    11:30,11:40,10 min talk,
+    11:30,12:05,25 min talk,Rajeswari Sivakumar & Christian McDaniel from Dr. Shannon Quinn's group @UGA
     11:40,11:50,10 min talk,Greg Werner
-    11:50,12:05,15 min talk,
     12:05,12:20,15 min talk,Casey Hartnett
     12:20,12:30,Question from previous talks,
     12:30,12:45,Tiny Talks,Shorts 2 min talks about the day
