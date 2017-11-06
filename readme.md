@@ -5,6 +5,8 @@
 
 
 
+![](https://user-images.githubusercontent.com/4236275/32387941-61eb6494-c09c-11e7-8e39-510689aab037.png)
+
 # [Atlanta Jupyter User Group Meeting](https://callisto-morns.github.io/) [One](https://callisto-morns.github.io/)
 
 ## Saturday November 11, 2017 _@_ the Georgia Tech Research Institute
@@ -12,6 +14,7 @@
 __Atlanta Jupyter User Group Meeting__ is a satellite event orbitting the [Project Jupyter](https://jupyter.org).  At each __Atlanta Jupyter User Group Meeting__, Jupyter beginners and veterans will join to share their works.  These events will attract designers, developers, and scientists across the southeast region crafted with Project Jupyter tools.
 
 # Ticket Drop!
+
 ## [Purchase Tickets at Eventbrite for $5](https://www.eventbrite.com/e/callisto-morn-one-an-event-for-jupyter-users-tickets-39268778975)
 
 > *Tickets on the day of the event are $10*
@@ -65,12 +68,33 @@ This project maintains an index of notebooks on the `master` branch.  The Github
 
 
 
-    #     !jupyter nbconvert --to markdown *.ipynb 
+    !jupyter nbconvert --to markdown *.ipynb 
     !jupyter nbconvert --to markdown --FilesWriter.build_directory=_posts posts/2017-*.ipynb 
     #     !rm index.md
     !echo "---\n---\n" > index.html
     !jupyter nbconvert --config config.py --stdout index.ipynb >> index.html
     !jupyter nbconvert --config config.py --to markdown readme.ipynb
+
+
+    [NbConvertApp] Converting notebook about.ipynb to markdown
+    [NbConvertApp] Writing 1366 bytes to about.md
+    [NbConvertApp] Converting notebook announcement.ipynb to markdown
+    [NbConvertApp] Writing 2276 bytes to announcement.md
+    [NbConvertApp] Converting notebook contributing.ipynb to markdown
+    [NbConvertApp] Writing 864 bytes to contributing.md
+    [NbConvertApp] Converting notebook demonstrations.ipynb to markdown
+    [NbConvertApp] Writing 2929 bytes to demonstrations.md
+    [NbConvertApp] Converting notebook index.ipynb to markdown
+    [NbConvertApp] Writing 7774 bytes to index.md
+    [NbConvertApp] Converting notebook readme.ipynb to markdown
+    [NbConvertApp] Writing 6673 bytes to readme.md
+    [NbConvertApp] Converting notebook posts/2017-10-23-Adding-the-first-talks-Copy1.ipynb to markdown
+    [NbConvertApp] Writing 784 bytes to _posts/2017-10-23-Adding-the-first-talks-Copy1.md
+    [NbConvertApp] Converting notebook posts/2017-11-02-Atlanta-Jupyter-Users-Group.ipynb to markdown
+    [NbConvertApp] Writing 451 bytes to _posts/2017-11-02-Atlanta-Jupyter-Users-Group.md
+    [NbConvertApp] Converting notebook index.ipynb to html
+    [NbConvertApp] Converting notebook readme.ipynb to markdown
+    [NbConvertApp] Writing 5289 bytes to readme.md
 
 
 
