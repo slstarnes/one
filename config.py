@@ -1,0 +1,2 @@
+c.TemplateExporter.exclude_input=True
+c.TemplateExporter.exclude_input_prompt=True
